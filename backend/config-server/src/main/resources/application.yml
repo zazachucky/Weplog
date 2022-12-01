@@ -22,8 +22,8 @@ spring:
           # Github ??? private repo? ????? token ??.
           # Settings - DeveloperSettings - Personal Access Token?? ?? ?? ?? ?, ?? ???? password? ????? ?? ?????.
           # public repo? username, password ?? ?? ??
-          username: wornjs135
-          password: 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
+          username: *****
+          password: *****
 #          uri: file://C:\Users\SSAFY\IdeaProjects\git-local-repo
 management:
   endpoints:
